@@ -1,9 +1,10 @@
 import React from 'react'
-
-function Player() {
+import "./Player.css"
+import Sidebar from './Sidebar'
+function Player({spotify}) {
     return (
-        <div>
-            super
+        <div className="player">
+           <Sidebar/>
         </div>
     )
 }

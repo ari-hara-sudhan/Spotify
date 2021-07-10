@@ -5,7 +5,7 @@ function Login() {
 
     return (
         <div className="login">
-            <img src="https://wallpaperaccess.com/full/1373271.jpg"/>
+            <img src="https://wallpaperaccess.com/full/1373271.jpg" alt="spty-logo"/>
             <a href={loginUrl}>LOGIN WITH SPOTIFY</a>
             
         </div>
